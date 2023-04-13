@@ -1,5 +1,3 @@
-# postgresql2
-
 # PostgreSQL
 
 SQL is a communication language. It’s how we interface or interact with databases that support it. PostgreSQL is a database that uses SQL. There are many other databases that support SQL. As an example, MSSQL.
